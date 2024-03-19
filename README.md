@@ -1,10 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=no-int's%20Code%20Space!" />
----
+
 <h1 align="center">💡 Tech Stack 💡</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/java-ECD53F?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java8+-ECD53F?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mybatis-59666C?style=for-the-badge&logo=mybatis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"/>
+    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 <h1 align="center">💡 My Most Used Languages 💡</h1>
