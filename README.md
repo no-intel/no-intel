@@ -1,4 +1,27 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=no-int's%20Code%20Space!" />
+---
+<h1 align="center">💡 Tech Stack 💡</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/java-ECD53F?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<h1 align="center">💡 My Most Used Languages 💡</h1>
+<p align="center">
+  <a href="https://github.com/no-intel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no-intel&layout=compact&show_icons=true&show_owner=true&hide_title=ture&theme=nord&hide=none" />
+  </a>
+</p>
+<h1 align="center">💡 My Git Stats 💡</h1>
+<p align="center">
+  <a href="https://github.com/no-intel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=no-intel&hide=none&hide_title=true&show_icons=true&include_all_commits=false&theme=nord" />
+  </a>
+</p>
+
+
+
 
 <!--
 **no-intel/no-intel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
