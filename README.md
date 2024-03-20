@@ -1,5 +1,10 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="node_modules/github-markdown-css/github-markdown.css">
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown-light.min.css"
+  integrity="sha512-zb2pp+R+czM7GAemdSUQt6jFmr3qCo6ikvBgVU6F5GvwEDR0C2sefFiPEJ9QUpmAKdD5EqDUdNRtbOYnbF/eyQ=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
 <style type="text/css">
     .card {
   /* Add shadows to create the "card" effect */
