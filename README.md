@@ -1,31 +1,3 @@
-<<<<<<< HEAD
-=======
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown-light.min.css"
-  integrity="sha512-zb2pp+R+czM7GAemdSUQt6jFmr3qCo6ikvBgVU6F5GvwEDR0C2sefFiPEJ9QUpmAKdD5EqDUdNRtbOYnbF/eyQ=="
-  crossorigin="anonymous"
-  referrerpolicy="no-referrer"
-/>
-<style type="text/css">
-    .card {
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 25%;
-}
-
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
-}
-</style>
->>>>>>> fc8de1685f142f87943ec1b504f6f4efb687f079
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=no-int's%20Code%20Space!" />
 
 <h1 align="center">🌱 Projects 🌱</h1>
