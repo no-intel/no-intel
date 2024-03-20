@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="node_modules/github-markdown-css/github-markdown.css">
 <style type="text/css">
     .card {
   /* Add shadows to create the "card" effect */
