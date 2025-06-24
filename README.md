@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=무지성개발자%20Code%20Space!" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=무지성개발자%20%Git%20%Hub!" />
 
 <h3 align="center">🙌 안녕하세요. 무지성 개발자 최상열 입니다!</h3>
 <p align="center">
