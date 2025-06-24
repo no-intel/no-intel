@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=no-int's%20Code%20Space!" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=무지성개발자%20Code%20Space!" />
 
 <h1 align="center">🌱 Projects 🌱</h1>
 
-[![Shelter-Zoo](https://github-readme-stats.vercel.app/api/pin/?username=no-intel&repo=Shelter-Zoo)](https://github.com/f-lab-edu/Shelter-Zoo)
+[![pickmin-bloom](https://github-readme-stats.vercel.app/api/pin/?username=no-intel&repo=pickmin-bloom)](https://github.com/no-intel/pickmin-bloom)
 
 <h1 align="center">💡 Tech Stack 💡</h1>
 <p align="center">
